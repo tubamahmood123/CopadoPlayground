@@ -8,14 +8,4 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
-    <fields>
-        <fullName>Copado_Practice__c</fullName>
-        <externalId>false</externalId>
-        <label>Copado Practice</label>
-        <length>200</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
 </CustomObject>
